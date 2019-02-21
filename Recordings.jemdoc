@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{index.html}
+= 课程录音
+
+== 安排表
+
+~~~
+{}{table}{condorcet}
+*Lecture* | *Content*		 					|  *Material* 																						| *Remark*		   ||
+1	      | 金融经济学导论							| [Recording/Lecture01/20170220(1).mov l1（上）]	[Recording/Lecture01/20170220(2).mov l1（下）]|  		   ||
+
+
+~~~

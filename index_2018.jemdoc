@@ -1,0 +1,117 @@
+# jemdoc: menu{MENU}{index.html}
+= 金融经济学18春 -- Financial Economics 18Spring
+
+~~
+
+教师: 徐高博士  
+
+地点: 二教109  
+
+正课时间: 1～16周每周周一11～12节（19:40-21:30），单周周五11～12节（19:40-21:30）
+
+习题课时间: 3～16周每周周一10节（18:40-19:30）
+
+助教信息: 李瑞鹏，rp.li@pku.edu.cn
+
+[Fin2018-金融经济学课程介绍.pdf 教学计划]
+
+[book/金融经济学二十五讲17spring.pdf 课堂讲义]（暂不外放，请找同学索取）
+
+[http://forum.nsd.pku.edu.cn/index.aspx 课程论坛]（校外需要VPN登陆）
+
+~~
+
+~~
+
+期末考试安排：
+
+- 时间：6月25日18:30-20:30
+
+- 地点：[hw/18spring.xlsx 二教207、二教205]
+
+- 注意事项：带上笔、计算器和必要的文具及相关证件（校外同学带学生证，校内同学可以带校园卡/学生证）参加考试
+
+- 考试内容：计算题考查13-25讲，简答题考察整本书
+
+祝各位武运昌隆！
+
+~~
+
+~~
+作业要求：
+
+- 作业必须手写，不可打印
+
+- 必须按时上交，否则将得0分
+
+- 不需扫描，交纸质版即可，订在一起
+
+- 作业答案不公布，习题课上讲解，如有问题请及时提问
+
+- 作业成绩公布在石墨平台上（见下），每次作业成绩argue的有效期为对应习题课公布成绩后的1周内，*过时不侯*
+
+上课回答问题要求：
+
+- 当天课间和下课后，在第一排找助教现场登记，*过期不候*
+
+勘误要求：
+
+- 请不要重复勘误
+
+- 每周日会公布勘误，勘误的当周日后一周内欢迎argue，*过期不候*
+
+【平时成绩查询】：（作业、勘误、上课回答问题）
+
+- [https://shimo.im/sheet/VzZk3WJiRZQ2nifZ/GEmcY/ 石墨平台]
+
+- 每项作业成绩公布一周后是argue期，*过期不候*
+~~
+
+
+== 时间安排表
+
+~~~
+{}{table}{condorcet}
+*Week* | *Date*   | *Lecture*		 															| *Recording*| *Homework*  					| *Remark* ||
+1 	   | Mon,2.26 | [Lecture/Fin2017-01-金融经济学导论.pdf 1.金融经济学导论]				    		|          | [HW/Fin2018-作业1.pdf HW1,Due:3.5] |      ||
+1 	   | Fri,3.2  | [Lecture/Fin2017-03-利率及债券投资初步.pdf 3.利率及债券价值分析]     				| [https://pan.baidu.com/s/1mj6toH6  密码:eg8f]         |             					| 
+今天这一讲介绍了几个相互联系，但又极易混淆的利率概念。大家一定要通过复习课本和做作业把这几个概念弄清楚。真实世界中的收益率曲线编制和债券投资分析比这一讲内容复杂多了。有兴趣的同学可以上“中国债权信息网”看看。那是我国发布债券数据信息的权威机构,里面有收益率曲线编制的一些简单介绍文件。[http://www.chinabond.com.cn/cb/cn/zzsj/cywj/syqx/qxsm/list.shtml /Link/]\n
+今天课上时间有限，没有讲4.4节里“久期”的内容。这是一个债券投资的关键概念，大家课后务必自己阅读这方面内容.																  ||
+2 	   | Mon,3.5  | [Lecture/Fin2017-04-股票价值分析.pdf 4.股票价值分析]	 							| [https://pan.baidu.com/s/1MJlaXgoYP9NijK8dOMy1LA  密码:sylq]         |    [HW/Fin2018-作业2.pdf HW2,Due:3.12]         					|         ||
+3 	   | Mon,3.12 | [Lecture/Fin2017-05-均值方差分析.pdf 5.均值方差分析]								| [https://pan.baidu.com/s/1WPPQfpRN9plpIhWKPOalAQ  密码:leod]         |    [HW/Fin2018-作业3.pdf HW3,Due:3.19]        					|         ||
+3 	   | Fri,3.16 | [Lecture/Fin2017-06-CAPM.pdf 6.资本资产定价模型(CAPM)]	 						| [https://pan.baidu.com/s/1IDww4rmKRU0_gl9L84HG-Q  密码:hhzu]         |             					|         ||
+4 	   | Mon,3.19 | [Lecture/Fin2017-07-对CAPM的讨论.pdf 7.对CAPM的讨论]							| [https://pan.baidu.com/s/1NRN08va4krscWe6mNOWICA  密码:87hy]         | [HW/Fin2018-作业4.pdf HW4,Due:3.26]         					    |         ||
+5 	   | Mon,3.26 | [Lecture/Fin2017-08-期望效用理论.pdf 8.期望效用理论]		 						| [https://pan.baidu.com/s/1KDrQNkBOPS621TEHU4ilJw 密码:l4n5]         |             					|         ||
+5 	   | Fri,3.30 | [Lecture/Fin2017-09-风险偏好与投资储蓄行为.pdf 9.风险偏好与投资储蓄行为]				| [https://pan.baidu.com/s/18NjLi5C1-RNrL6MQKGsHSA  密码:lv0j]         | [HW/Fin2018-作业5.pdf HW5,Due:4.2]            					|         ||
+6 	   | Mon,4.2  | [Lecture/Fin2017-10-求解完备市场中的一般均衡.pdf 10.求解完备市场中的一般均衡]		| [https://pan.baidu.com/s/1o2EyBspnVCArpUlOYqIEgA  密码:o1h2]         | [HW/Fin2018-作业6.pdf HW6,Due:4.9]           					|         ||
+7 	   | Mon,4.9  | [Lecture/Fin2017-11-完备市场中一般均衡的性质.pdf 11.完备市场中一般均衡的性质]		| [https://pan.baidu.com/s/145ITLj-t7w_g009YWaC5pg  密码:ftr4]         | [HW/Fin2018-作业7.pdf HW7,Due:4.13]            					|         ||
+7 	   | Fri,4.13 | [Lecture/Fin2017-12-CCAPM及其讨论.pdf 12.C-CAPM及其讨论]						| [https://pan.baidu.com/s/1stH6bxaxsyARlvKK2neG9w  密码:7a3t]         |             					|         ||
+8 	   | Mon,4.16 | *期中考试*				 													|          |             					|         ||
+8	   | Fri,4.20 | [Lecture/Fin2017-13-多因子模型与APT.pdf 13. 多因子模型与APT]		 				| [https://pan.baidu.com/s/1MkS-nc3MnfZTFx3s5VsjyQ  密码:gcht]         |             					|         ||
+9 	   | Mon,4.23 | [Lecture/Fin2017-14-无套利定价初探.pdf 14.无套利定价初探]							| [https://pan.baidu.com/s/1oZGhtKZXIBZTwgi4ETEzsQ  密码:lbvs]         | [HW/Fin2018-作业8.pdf HW8,Due:4.27]            					|         ||
+9 	   | Fri,4.27 | [Lecture/Fin2017-15-无套利定价理论基础.pdf 15.无套利定价理论基础]	 		 		| [https://pan.baidu.com/s/1bB47MgxEENkIo6QSUanTxA  密码:f7xz]         |             					|         ||
+11 	   | Mon,5.7  | [Lecture/Fin2017-16-多期二叉树定价.pdf 16.多期二叉树定价]			 				| [https://pan.baidu.com/s/11fVTkDlYAZ6wW_CGKmAV7g  密码:dhk5]         | [HW/Fin2018-作业9.pdf HW9,Due:5.14]            					|  [HW/ETF.xlsx 期权二叉树定价excel文件]       ||
+11	   | Fri,5.11 | [Lecture/Fin2017-17-最优停时.pdf 17.最优停时]									| [https://pan.baidu.com/s/1p1LX3uv4mA035JklYOXdVw  密码:dkvz]         |             					|         ||
+12	   | Mon,5.14 | [Lecture/Fin2017-18-连续时间金融与BS公式.pdf 18.连续时间金融与Black-Scholes公式]	| [https://pan.baidu.com/s/1bmlRD74EOTuOk949HZKAkA  密码:yydk]    	   | [HW/Fin2018-作业10.pdf HW10,Due:5.21]								|         ||
+13 	   | Mon,5.21 | [Lecture/Fin2017-19-动态对冲.pdf 19.动态对冲]									| [https://pan.baidu.com/s/1AhuqQ8rP93c7P91hcB5NAw  密码:ez3v]        |   [HW/Fin2018-作业11.pdf HW11,Due:5.28]          					|  [HW/Fin2018-19-动态对冲.pptx Slides]       ||
+13	   | Fri,5.25 | [Lecture/Fin2017-20-道德风险与信贷配给.pdf 20.道德风险与信贷配给]					| [https://pan.baidu.com/s/1rRsP8cMJ4BeR_xdgX7Q-dg  密码:2y1a]         |             					|  [HW/Fin2018-20-信贷配给.pptx Slides]       ||
+14	   | Mon,5.28 | [Lecture/Fin2017-21-逆向选择与资本结构.pdf 21.逆向选择与资本结构]			 		| [https://pan.baidu.com/s/1oLdRPl-A0cQABUYz4E6RUg  密码:9zvm]         |  [HW/Fin2018-作业12.pdf HW12,Due:6.4]           					|  [https://pan.baidu.com/s/1CxEGtcq_OK4Eyg-lu55Qqw  密码:6fht,The Theory of Corporate Finance-Tirole]       ||
+15 	   | Mon,6.4  | [Lecture/Fin2017-22-银行与期限错配.pdf 22.银行与期限错配]		 					| [https://pan.baidu.com/s/1Z5OCsQreHQUpreIyszzJhA  密码:9hmk]         | [HW/Fin2018-作业13.pdf HW13,Due:N/A]            					| [https://www.macroeconomics.tu-berlin.de/fileadmin/fg124/financial_crises/literature/Diamon_Dybvig_Bank_Runs__Deposit_Insurance__and_Liquidity.pdf Diamond.Dybvig,1983]        ||
+15	   | Fri,6.8  | [Lecture/Fin2017-23-行为金融学初探.pdf 23.行为金融学初探]			 				| [https://pan.baidu.com/s/15yjYZsbyF_AXay13e-Hh7g  密码:pgo2]         |             					|         ||
+16	   | Mon,6.11 | [Lecture/Fin2017-25-金融理论与金融艺术.pdf 25.金融理论与金融艺术]			 		| [https://pan.baidu.com/s/14xp_ccTTHI_tmY6oeM-zvg  密码:mvkm]        |             					|         ||
+18	   | Mon,6.25 | *期末考试*	     															|          |             					|         
+
+~~~
+
+== 常见疑惑
+
+~~
+
+Q:为啥无法访问nsd课程论坛？\n
+A:需要登陆VPN,请戳如下[https://its.pku.edu.cn/service_1_vpn.jsp 链接]\
+
+Q:课程录音下载太慢怎么办？\n
+A:土豪可以选择购买百度网盘会员，喜欢折腾的欢迎去配置Aria2（下载神器）
+
+~~
+

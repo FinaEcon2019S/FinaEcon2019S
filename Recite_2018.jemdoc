@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+= 习题课材料
+
+== 时间安排表
+
+~~~
+{}{table}{condorcet}
+*Week* | *Date*   | *Lecture*		 					|  *Material* 						| *Remark*		   ||
+3	   | Mon,3.12 | HW1讲评，内容：Lecture01,Lecture03		| 									|导论、债券  		   ||
+4	   | Mon,3.19 | HW2讲评，内容：Lecture04				| 									|股票		  	   ||
+5      | Mon,3.26 | HW3讲评，内容：Lecture05				|[HW/Cauchy.png 矩阵形式的最优化夏普比]	|均值方差分析、夏普比  ||
+6	   | Mon,4.2  | HW4讲评，内容：Lecture06,Lecture07		|									|CAPM			   ||
+7	   | Mon,4.9  | HW5/HW6讲评，内容：Lecture08-10		|									|期望效用理论、风险下决策、GE求解	   ||
+7	   | Fri,4.13 | HW7讲评，内容：Lecture11				|[HW/lecture9.pdf GE in a Pure Exchange Economy(GE Method)]\n
+[HW/GradLec1.pdf P14-Negishi's(1960) Method to Compute Equilibria(CP Method)]       	|GE性质讨论 ||
+8	   | Mon,4.16 | Midterm Review，内容：Lecture1-12		|[Review/MidtermReview/pre.pdf MidtermReview] |期中复习   ||
+9	   | Mon,4.23 | Cancelled							|									|					||
+10	   | Mon,4.30 | Cancelled							|									|					||
+11	   | Mon,5.7  | HW8讲评，内容：Lecture13-14			|									|APT\/无套利定价		||
+13	   | Mon,5.21 | HW9讲评，内容：Lecture15-16			|									|无套利定价基础\/多期二叉树||
+14	   | Mon,5.28 | HW10讲评，内容：Lecture17				|									|最优停时				||
+15	   | Mon,6.4  | HW11讲评，内容：Lecture19				|									|动态对冲				||
+16	   | Mon,6.11 | HW12\/13讲评，内容：Lecture20-21\/22-23	|									|非对称信息\/DD model\/Behavior Finance ||
+16     | Fri,6.16 | Final Review, 内容：Lecture1-25(Ex.2,18,24) |	[Review/FinalReview/pre.pdf FinalReview]								|期末复习
+~~~

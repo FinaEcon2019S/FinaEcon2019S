@@ -1,0 +1,6 @@
+#!/bin/bash --login
+alias jemdoc='/Users/viciberty/Documents/project/Viciberty.github.io/jemdoc.py'
+jemdoc *.jemdoc
+git add --all
+git commit -m "$1"
+git push origin
