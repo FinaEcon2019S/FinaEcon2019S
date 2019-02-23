@@ -1,0 +1,151 @@
+\documentclass{beamer}
+\usepackage{xeCJK}%中文宏包
+\usetheme{Warsaw}%主题
+\usecolortheme{lily}
+%%----------------------------------------------------------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{amsmath}
+\usepackage{cite} % takes care of citations
+\usepackage{diagbox}
+\usepackage{colortbl,xcolor}
+\usepackage{esint}
+% \beamerdefaultoverlayspecification{<+->}
+
+\setromanfont[Mapping=tex-text]{Hoefler Text}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+\setbeamertemplate{caption}[numbered]
+%%----------------------------------------------------------------------------------------------------------
+\title{Mid-term Review}
+\author{Ruipeng Li}
+\institute{Peking University}
+\date{\today}
+%%----------------------------------------------------------------------------------------------------------
+\begin{document}
+
+\frame{
+	\titlepage
+	}
+
+	
+\AtBeginSection{
+	\begin{frame}{Outline}
+	\tableofcontents[currentsection]
+	\end{frame}
+}
+%----------------------------------------------------------------------------------------------------------
+ \section{Introduction:Lect1-4}
+  \label{sec:Intro}
+ %    \begin{frame}[allowframebreaks] {Background}
+
+ \begin{frame}{Introduction}
+    \begin{enumerate}
+		\item Introduction to Financial Economics(2 pricing theories \textbf{[HW1,Q1]}
+		\item Interest \& Bond:
+			\begin{enumerate}
+				\item IRR, NPV, yield \textbf{[HW1,Q2]}
+				\item Spot Rate(pricing), Forward Rate \textbf{[HW1,Q3]}
+				\item Duration
+			\end{enumerate} 
+		\item Stocks:
+			\begin{enumerate}
+				\item DDM model\textbf{[HW2,Q1]}
+				\item Dividend decision \& Fisher Separation Theorem\textbf{[HW2,Q2Q3]}
+			\end{enumerate}
+    \end{enumerate}
+ \end{frame}
+	
+%----------------------------------------------------------------------------------------------------------
+% section section_name (end)
+\section{CAPM:Lect5-7}
+  \label{sec:PE-Model}
+    \begin{frame}{CAPM}
+    \begin{enumerate}
+    	\item Preference: Mean-Variance Analysis\textbf{[HW3,Q1]}
+    	\item Behavior: Market Portfolio \& Two-fund separation\textbf{[HW3,Q2]}
+		\item Equilibrium: Partial, SML vs. CML
+			\begin{enumerate}
+				\item Proof1: Quadratic Utility Function\textbf{[HW4,Q1]}
+				\item Proof2: Portfolio Construction \& Sharp Ratio\textbf{[HW4,Q2]}
+			\end{enumerate}
+    	\item Properties: CAPM
+    		\begin{enumerate}
+    			\item Systematic vs. Idiosyncratic
+				\item $E(r_i)-r_f=\beta_i(E(r_M)-r_f)$\textbf{[HW4,Q3]}
+				\item Applications \& Deficiency\textbf{[HW4,Q4]}
+    		\end{enumerate}
+    \end{enumerate}
+	\end{frame}
+
+%----------------------------------------------------------------------------------------------------------	 
+ % section section_name (end)
+	\section{C-CAPM:Lect8-12}
+	\label{sec:GE-Model}
+	\begin{frame}
+	\begin{itemize}
+		\item Preference: Expected Utility(Lecture 8)
+			\begin{itemize}
+				\item Expected Utility Theorem(Without Proof)\textbf{[HW5,Q1]}
+				\item Risk Aversion: ARA, RRA and common utility functions\textbf{[HW5,Q2Q3]}
+			\end{itemize}
+		\item Behavior: Behavior under risks(Lecture 9)
+			\begin{itemize}
+				\item Risk Assets [Different State]	
+				\begin{itemize}
+					\item Proposition1:$a^*>(=,<)0 \Leftrightarrow E\tilde{r}>(=,<)r_f$
+					\item Proposition2:$a^*'(w_0)>(=,<)0 \Leftrightarrow R_A'(\cdot)<(=,0)0(DARA,CARA,IARA)$
+					\item Proposition3:$e(w_0)=(>,<)1 \Leftrightarrow R_R'(\cdot)=(<,>)0(CRRA,DRRA,IRRA)$((Without Proof)
+				\end{itemize}
+				\item Risk and Savings [Different Time]
+				\begin{itemize}
+					\item Determinacy case \& Uncertainty case\textbf{[HW6,Q1]}
+					\item Proposition4:$s_A>(=,<)s_B\Leftrightarrow P_R(sR)<(=,>)2$
+				\end{itemize}
+			\end{itemize}
+		\item Equilibrium: General Equilibrium(Lecture 10-11)
+		\item Properties: C-CAPM(Lecture 12)
+	\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+	\begin{itemize}
+		\item Preference: Expected Utility(Lecture 8)
+		\item Behavior: Behavior under risks(Lecture 9)
+		\item Equilibrium: General Equilibrium(Lecture 10-11)
+			\begin{itemize}
+				\item Asset market + Complete,Arrow-Debreu\textbf{[HW6,Q2Q3]}
+				\item Equilibrium in Complete Market\textbf{[HW6,Q4]}
+			\end{itemize}
+			\begin{itemize}
+				\item Property of best risk sharing: Central Planner\textbf{[HW7,Q1Q2]}
+					\begin{itemize}
+						\item Consumptions of all consumers are perfectly correlated
+						\item Consumptions only determined by aggregate risk
+						\item Idiosyncratic risk 
+					\end{itemize}
+				\item Representative Consumer（HARA）
+				\item Asset prices in equilibrium
+			\end{itemize}
+		\item Properties: C-CAPM(Lecture 12)
+			\begin{itemize}
+				\item $E[\tilde{r_j}]=r_f+(E[\tilde{r_j}]-r_f)$
+				\item Risk-free rate: $r_f\approx \frac{1-\delta}{\delta}+R_R\bar{g}-\frac{1}{2}R_RP_R\sigma_g^2$
+				\item Risk premium:$E[\tilde{r_j}]-r_f=-\frac{\delta(1+r_f)}{u'(c_0)}cov(u'(\tilde{c_1}),\tilde{r_j})$
+			\end{itemize}
+	\end{itemize}
+	\end{frame}
+	
+ 	\begin{frame}{Acknowledge}
+ 		$$\text{60pt计算 vs. 40pt简答，请务必携带计算器}$$
+		$$\text{Thanks for your listening and sleeping!!!}$$
+ 	\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	CITATION SECTION
+%----------------------------------------------------------------------------------------
+\bibliography{ts.bib}
+\bibliographystyle{plain}
+\end{document}
