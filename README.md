@@ -1,2 +1,2 @@
 # FinancialEcon.github.io
-Homepage for 18Spring Financial Economics
+Homepage for 19Spring Financial Economics
