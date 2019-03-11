@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{index.html}
+
+== 时间安排表
+
+~~~
+{}{table}{condorcet}
+*Week* | *Date*   | *Lecture*		 					|  *Material* 						| *Remark*		   ||
+4	   | Mon,3.11 | 第3、4、5讲 | [Review/portfolio.jpg 矩阵形式的最优化夏普比] |  债券、股票、均值方差分析		  
+~~~

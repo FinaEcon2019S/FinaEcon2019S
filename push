@@ -1,5 +1,5 @@
 #!/bin/bash --login
-alias jemdoc='/Users/viciberty/Documents/project/Viciberty.github.io/jemdoc.py'
+alias jemdoc='F:/新建文件夹/经双/金融经济学/金经2019春/FinancialEcon.github.io-master/jemdoc.py'
 jemdoc *.jemdoc
 git add --all
 git commit -m "$1"
